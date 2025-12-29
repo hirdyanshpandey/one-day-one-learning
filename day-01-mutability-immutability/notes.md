@@ -39,3 +39,7 @@ Changing an immutable object creates a new object.
 - Thread safety
 - Hashing support
 - Safe dictionary keys
+
+## Full Medium Article
+https://medium.com/@hirdyanshpandeyy/one-day-one-learning-day-1-3344d26e2178
+
